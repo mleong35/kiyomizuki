@@ -1,0 +1,15 @@
+body {
+    background-color: #0099DD;
+    text-align: center;
+    color: #FFFFFF
+}
+h1 {
+    text-align: center;
+}
+p {
+    background-image: url("pusheenicorn.gif");
+    height: 200px;
+}
+span{
+    background-color: #123456
+}
