@@ -10,6 +10,6 @@ p {
     background-image: url("pusheenicorn.gif");
     height: 200px;
 }
-span{
+.catClass{
     background-color: #123456
 }
